@@ -4,7 +4,7 @@ First of all we will learn how to work within a ROS environment. You will have t
 - use a free and opensource ROS environment. 
 - install the ROS Noetic in your computer from a Docker utility. 
 
-## **1.1 Free ROS environment**
+## **1.1 Free ROS environment.**
 
 You have available the ROS environment offered for free by some companies like "The Construct".
 
